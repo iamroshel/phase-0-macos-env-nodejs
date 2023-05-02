@@ -49,3 +49,4 @@ commands.
 If you see a message starting with "-> v14.13.0" (or any higher number, like "->
 v14.13.10" or "-> v16.10.0"), continue to the next lesson, **Installing Ruby on
 macOS**.
+Roshel
